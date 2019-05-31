@@ -6,7 +6,9 @@ FOR WINDOWS 10
 
 sdk.dir = C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk   DIDN'T WORK
 
-%PATH% = C:\Users\USERNAME\AppData\Local\Android\sdk          WORKED FOR ME
+%JAVA_HOME% = your 'java/jdk' installation location             ----------|
+                                                                          |--->   WORKED FOR ME
+%ANDROID_HOME% = C:\Users\USERNAME\AppData\Local\Android\sdk    ----------|
 
 https://medium.com/@adityasingh_32512/solved-unable-to-load-script-from-assets-index-android-bundle-bdc5e3a3d5ff
 
