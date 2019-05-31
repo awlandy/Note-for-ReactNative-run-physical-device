@@ -1,3 +1,5 @@
+INSTALLED A UNUSABLE ANDROID APP???
+
 https://stackoverflow.com/questions/32634352/react-native-android-build-failed-sdk-location-not-found
 
 FOR WINDOWS 10
